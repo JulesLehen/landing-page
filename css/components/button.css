@@ -1,0 +1,9 @@
+.btn-blue {
+  background-color: #3059CD;
+  padding: 10px 15px;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "lora";
+}
